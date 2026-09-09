@@ -1,4 +1,4 @@
-# Package
+# 🏜️ Package
 Describe what this package does.
 
 > [!IMPORTANT]
